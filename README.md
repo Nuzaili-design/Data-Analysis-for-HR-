@@ -7,3 +7,7 @@ This is some data cleaning and analysis for a company that has multiple departme
 <img width="714" height="780" alt="Screenshot 2025-08-25 151059" src="https://github.com/user-attachments/assets/698d91dc-b5cb-4728-a762-16a357a7ad14" />
 <img width="825" height="640" alt="Screenshot 2025-08-25 150904" src="https://github.com/user-attachments/assets/179ae396-e047-44b8-8181-9f7ab465403d" />
 <img width="1149" height="795" alt="Screenshot 2025-08-25 151339" src="https://github.com/user-attachments/assets/e9c6ef89-c627-47b0-baf5-831dec13f1c4" />
+<img width="1073" height="779" alt="image" src="https://github.com/user-attachments/assets/f34b89f8-0034-45c3-8f84-c4a1c900b78c" />
+
+
+<img width="1071" height="798" alt="Screenshot 2025-08-26 113502" src="https://github.com/user-attachments/assets/bdf94556-89e7-4e04-8b75-04030b2fab5b" />
